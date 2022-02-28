@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "captchatotextproject",
+  "private_key_id": "8ef4cdfa9bbf5535c55bfc642811a366288a2017",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCymYO2KcQbbsGS\nebRJhqQ3O6W41NFR2gMkAuSpYAFl1TpQWEzcbO+zmsYtrqYX8EK5fhBJr9udbCkq\nQYn1u9OK59Nu+wC3Cg+75m4htLmcaf0msBUblODFCECn86GhM1RLQ6liBa0BBlBQ\nFpFQK0P+bUX3vy6VUrZqLfjpV7SKksigHyHJenZZ4/LvMXzBL+FafVRtKUX7aDnd\n5pds8g4tyDWA6Y4HqYv48LtCj+8QoAubwGhY1NGThI8aw70PxA8ZggF7U0bH4lRq\n7NHiLu8PSEtdXJCByRMLC14sUlcNrkrExaIQjMXPq2kZcpeyDNzOk4sHC+NLjK3b\nv4cImJkJAgMBAAECggEAEuu+j2rnUryuFzV7ixqPhSZ1jRpGvrQpBwSjcuov27j2\nP5LLOcL0tgNcoXRSNlEG0J3xXc0aqBfQWKCu2/C1HY8n0CcZUUroldB4tGtwCokT\n/6hB5DUmhtkz+FcQNYK5mGunozHUvToNAh8R7/tVbbvn4LJJXhpwJtmN+DKJdvCe\nGmLkJna+HkLanDCouQIN5dxXltI0EWhxBihvYtqb5gjYgMGZo75BQMRjWSOJjgZn\nde2I6nslFQoFTQtKLGnOdFeazA2ay7LMSW3p/lm3V8q5Orz/LQSwIRagut8Y9YTQ\npqJQ+oec3Ul0y3TS7f6w/RJe3oaii3gXstpfGSxxfQKBgQD7EFfvUQ0xHbK3AYEi\nFBfq6nWIow8/JPOlOpdIHBsV1A4NpURG6ZMr7lbKRasW4Kv4Hc7w0ymoxCbkgOEq\nHCjg86ZdgFM9YUhMmVIOvO+oQit7snOHBnKQDYSNuoDVYfv7noTABia7o2cXWGD+\ndWVNtgGjYN+40jWOwlNV9ckl8wKBgQC2HHGZJRnO818uUjpeOmThYxRju0lyoMBf\ncmaqmXCyfehfeaMNCDCEbtTuiO/OgZa8bPuAccrimX4Z1y5M6Ad6K/n7FX79z9kx\nN578p9IJgHQyPtTCwukuhoz6fywbQV3wxzyCcCSBFnbBvJWfLhE72TYPSjuczydw\nssTxj3QYEwKBgHy/njH3oAprq0VrpfJ88XV0knoWK5lAjx/mgQz/iiXKfEEjgU2K\n+em2P8G55E01zb03coAPLIADFyArObZmz5kW9+81uCajk/0bob5Y+uwsFNcd0HGj\nLoGNdfPGXAWq7j4Ugfm4FL7fbnYXH/rP8kouyZmYpRF8wcfxnt7zhcMpAoGAQ8YW\nKM576l78fzqu6j6FKLQ89FjRHs3giiUDPF5aaLMe9dlI6yKvG7o7mIJx7MKhnIJa\nnxS6UtaY7Xj9jDWWAsu2/tCjMEZYKE7w5kp2in65v7FOcSUkruH4OYl2mrYbBe7A\nADNIApqfm75ZWKJGW6Wcztfrk5IstW5yiQvAQu0CgYEAnnW1/N1J1KR7drPLgmDJ\nn4XN1UNoWtFwgMwO1LtaiqPqK9tizy6Itmt9lu6LeoVe04oOKP094+y2VMlt9c43\nRztkc9qsgaME5OJoYXZoE94/IC6NCOweEIwi3+n7jPuZd2daHTeqyjqAzFsHrB5Z\nAtRKLA7vFvLQ7QK6Hw+b1p0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapireadtext@captchatotextproject.iam.gserviceaccount.com",
+  "client_id": "107343947891999673024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapireadtext%40captchatotextproject.iam.gserviceaccount.com"
+}
